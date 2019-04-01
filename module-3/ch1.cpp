@@ -1,4 +1,6 @@
 /*
+	This is part of last year's extra lab1 question set by me
+
 	The suffix "LL" is a declaration of a long long constant
 	Just like how you write
 		1f for 1 in float
