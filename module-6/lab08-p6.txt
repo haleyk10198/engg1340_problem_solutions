@@ -1,0 +1,5 @@
+Harry Potter C 25
+James Bond D 40
+Peter Pan F 35
+Sherlock Holmes A 60
+Luke Skywalker E 20
