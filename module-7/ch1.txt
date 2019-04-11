@@ -1,0 +1,13 @@
+Insert
+book1 author1 12345678 1st-book
+Search
+book2 author2 87654321 2nd-book
+Insert
+book2 author2 87654321 2nd-book
+Insert
+book1 author1 12345678 1st-book
+Search
+book2 author2 87654321 2nd-book
+Search
+book1 author1 12345678 1st-book
+Exit
